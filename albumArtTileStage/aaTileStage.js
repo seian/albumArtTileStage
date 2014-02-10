@@ -5,7 +5,7 @@
 
 $(document).ready(function(e) {
 	// album arts
-	var aa = {'column'      : 3,  		// set column
+	var aa = {'column'      : 4,  		// set column
 			  'row'         : 9,  		// set row
 			  'size'        : 80, 		// set a size in pixel
 			  'bigImg'		: 3,  		// set a number of big images
