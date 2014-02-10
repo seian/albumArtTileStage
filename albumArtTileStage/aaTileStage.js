@@ -5,12 +5,12 @@
 
 $(document).ready(function(e) {
 	// album arts
-	var aa = {'column'		: 3,  		// set column
-			  'row'			: 9,  		// set row
-			  'size'		: 80, 		// set a size in pixel
+	var aa = {'column'      : 3,  		// set column
+			  'row'         : 9,  		// set row
+			  'size'        : 80, 		// set a size in pixel
 			  'bigImg'		: 3,  		// set a number of big images
-			  'mainDivId'	: 'aaSet',  // set main div for album arts section
-			  'imgAddr'		: [], 		// set image addresses
+			  'mainDivId'   : 'aaSet',  // set main div for album arts section
+			  'imgAddr'     : [], 		// set image addresses
 			  'debugMode'   : true, 	// debug mode
 			  // private variables
 			  'pVars'	: [],
